@@ -47,3 +47,11 @@ Project Details: https://github.com/AbdullahProjects/Real-Estate-House-Price-Pre
 Live Demo: https://akk-real-estate-house-price-prediction.streamlit.app/
 
 ----------
+
+## Project 7: Data Analysis of OLX Cars Dataset
+
+Project Details: https://github.com/AbdullahProjects/Data-Analysis-of-OLX-Cars-Dataset
+
+Live Demo: https://data-analysis-olx-cars-dataset.streamlit.app/
+
+----------
