@@ -55,3 +55,19 @@ Project Details: https://github.com/AbdullahProjects/Data-Analysis-of-OLX-Cars-D
 Live Demo: https://data-analysis-olx-cars-dataset.streamlit.app/
 
 ----------
+
+## Project 8: Car Price Prediction Model Building
+
+Project Details: https://github.com/AbdullahProjects/Car-Price-Prediction
+
+Live Demo: https://akk-car-price-prediction.streamlit.app/
+
+----------
+
+## Project 9: Playing with Openai API's
+
+Project Details: https://github.com/AbdullahProjects/Playing-with-Openai-API-s
+
+Live Demo: https://akk-playing-with-openai-api.streamlit.app/
+
+----------
