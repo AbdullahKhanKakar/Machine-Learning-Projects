@@ -71,3 +71,22 @@ Project Details: https://github.com/AbdullahProjects/Playing-with-Openai-API-s
 Live Demo: https://akk-playing-with-openai-api.streamlit.app/
 
 ----------
+
+
+# 🔥 NLP Projects
+
+## Project 1: SMS/Emails spam detection
+
+Project Details: https://github.com/AbdullahProjects/SMS-Emails-Spam-Detection
+
+Live Demo: https://sms-emails-spam-detection.streamlit.app/
+
+----------
+
+## Project 2: Movies Reviews Sentiments detection
+
+Project Details: https://github.com/AbdullahProjects/NLP-Movies-Sentiments-Detection
+
+Live Demo: https://nlp-movies-sentiments-detection.streamlit.app/
+
+----------
